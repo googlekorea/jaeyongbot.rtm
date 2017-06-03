@@ -6,17 +6,17 @@ import urllib.request
 from slackclient import SlackClient
 
 # 재용봇 토큰. 환경변수로 써야 안전할 듯.
-SLACK_BOT_TOKEN = 'xoxb-190480237911-STHQL5jzGfOCju2mKO6ly7gc'
+SLACK_BOT_TOKEN = 'xoxb-blah-blah'
 
 # 재용봇 아이디
-BOT_ID = 'W5KH4N47M'
+BOT_ID = 'blahblah'
 
 # constants
 AT_BOT = "<@" + BOT_ID + ">"
 COMMAND_HEY = "야"
 COMMAND_TRANS = "영어로 "
-client_id = "dzeHmOOPgE7wGCxc29c3"
-client_secret = "DeE630DkAJ"
+client_id = "blahblah"
+client_secret = "blah"
 
 # 슬랙 클라이언트 초기화
 slack_client = SlackClient(SLACK_BOT_TOKEN)
