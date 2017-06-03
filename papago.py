@@ -4,8 +4,8 @@ import sys
 import json
 import urllib.request
 
-client_id = "dzeHmOOPgE7wGCxc29c3"
-client_secret = "DeE630DkAJ"
+client_id = "blahblah"
+client_secret = "blah"
 
 encText = urllib.parse.quote("나 너 좋아하냐")
 
