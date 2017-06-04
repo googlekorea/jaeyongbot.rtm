@@ -84,3 +84,7 @@ if __name__ == "__main__":
             time.sleep(READ_WEBSOCKET_DELAY)
     else:
         print("접속 실패. 토큰 혹은 ID를 확인해 보셈.")
+
+        
+
+# visual studio code git push test
